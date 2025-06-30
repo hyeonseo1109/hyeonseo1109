@@ -1,5 +1,5 @@
 ![배경이미지](hyeonseo1109.jpg)
-![Hi there!](https://img.shields.io/badge/Hi%20there!-blue?style=flat-square)
+# 💙 Hi there!
 
 <!--
 ## Hi there 👋
