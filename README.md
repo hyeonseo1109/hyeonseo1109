@@ -1,5 +1,6 @@
 ![배경이미지](hyeonseo1109.jpg)
-<h1 style="color: blue">Hi there!</h1>
+![Hi there!](https://img.shields.io/badge/Hi%20there!-blue?style=flat-square)
+
 <!--
 ## Hi there 👋
 **hyeonseo1109/hyeonseo1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
