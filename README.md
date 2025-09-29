@@ -1,7 +1,7 @@
 ![배경이미지](hyeonseo1109.jpg)
 # 💙 Hi there!
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--
 ## Hi there 👋
