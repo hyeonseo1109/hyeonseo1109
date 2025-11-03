@@ -1,4 +1,7 @@
 {
+  "username": "hyeonseo1109",
   "type": "normal",
-  "backgroundColor": "#ffffff"
+  "theme": "github",
+  "background": "ffffff",
+  "grid": true
 }
